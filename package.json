@@ -1,0 +1,27 @@
+{
+  "name": "MultiVIsion",
+  "version": "1.0.0",
+  "description": "Extereme Tech Videos Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeshdamkondwar/MultiVIsion.git"
+  },
+  "keywords": [
+    "Training Videos",
+    "Video Tutorials"
+  ],
+  "author": "Sandesh Damkondwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeshdamkondwar/MultiVIsion/issues"
+  },
+  "homepage": "https://github.com/sandeshdamkondwar/MultiVIsion",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.9.2"
+  }
+}
